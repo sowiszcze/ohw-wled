@@ -31,3 +31,7 @@ fp-info-cache
 # Export files
 gerber.zip
 netlist.ipc
+
+# Production and BOM files
+bom/
+production/
